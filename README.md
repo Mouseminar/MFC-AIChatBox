@@ -37,7 +37,7 @@ https://www.bilibili.com/video/BV1HbPkeZEQD
 
 ![界面截图](image/server目录.png)
 
-3. 到[魔塔社区](https://modelscope.cn/models)下载模型，将模型文件放到项目的models文件夹下,注意模型必须为gguf格式，这样才能被llama.cpp识别
+3. 到[魔搭社区](https://modelscope.cn/models)下载模型，将模型文件放到项目的models文件夹下,注意模型必须为gguf格式，这样才能被llama.cpp识别
 4. 运行AIChatBox.exe
 
 
@@ -55,7 +55,7 @@ https://www.bilibili.com/video/BV1HbPkeZEQD
 
 ![界面截图](image/server目录.png)
 
-3. 到[魔塔社区](https://modelscope.cn/models)下载模型，将模型文件放到项目的models文件夹下,注意模型必须为gguf格式，这样才能被llama.cpp识别
+3. 到[魔搭社区](https://modelscope.cn/models)下载模型，将模型文件放到项目的models文件夹下,注意模型必须为gguf格式，这样才能被llama.cpp识别
 4. 使用Visual Studio 2022打开项目，配置项目属性，将项目的平台工具集改为Visual Studio 2022 (v143)
 5. 编译项目，运行
 
